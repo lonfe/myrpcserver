@@ -1,0 +1,1 @@
+package com.lonfe.service;public class HelloServiceImpl implements HelloService {	public String say(String name) {		return "Hello " + name;	}}

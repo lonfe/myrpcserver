@@ -1,0 +1,1 @@
+package com.lonfe.service;public interface HelloService {	String say(String name);}
